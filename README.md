@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur22cse&label=Profile%20views&color=0e75b6&style=flat" alt="ankur22cse" /> </p>
 
-- 🔭 I’m currently working on **Health-Care Management system**
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Online Ticketing platform**
